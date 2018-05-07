@@ -17,8 +17,7 @@
         "Randi Mortensen (http://Randi-Mortensen.github.io/)"
     ],
     "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "type": "git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
