@@ -1,39 +1,27 @@
 {
-  "name": "progressive web apps pwa",
-  "version": "0.0.0",
+  "name": "randi-mortensen.github.io",
+  "version": "1.0.0",
   "description": "A freelancer portfolio HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template",
-    ],
-    "homepage": "https://randi-mortensen.github.me/",
-    "license": "MIT",
-    "author": "Randi Mortensen",
-    "contributors": [
-        "Randi Mortensen (http://Randi-Mortensen.github.io/)"
-    ],
-    "repository": {
-        "type": "git"
-    },
-    "dependencies": {
-        "bootstrap": "4.1.1",
-        "font-awesome": "4.7.0",
-        "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1",
-        "magnific-popup": "^1.1.0"
-    },
-    "devDependencies": {
-        "browser-sync": "2.24.3",
-        "gulp": "^3.9.1",
-        "gulp-clean-css": "3.9.4",
-        "gulp-filter": "5.1.0",
-        "gulp-header": "2.0.5",
-        "gulp-rename": "^1.2.2",
-        "gulp-sass": "4.0.1",
-        "gulp-uglify": "3.0.0"
-    }
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randi-Mortensen/Randi-Mortensen.github.io.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "author": "Randi Mortensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Randi-Mortensen/Randi-Mortensen.github.io/issues"
+  },
+  "homepage": "https://github.com/Randi-Mortensen/Randi-Mortensen.github.io#readme"
 }
